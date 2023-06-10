@@ -1,5 +1,4 @@
 body{
-    /*light blue gradient color*/
     background: linear-gradient(to right, #8ad9df, #3a7bd5);
     display: flex;
     flex-direction: column;
