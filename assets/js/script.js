@@ -20,7 +20,7 @@ function fibonacci(){
         }
         //Se agrega el nuevo término a la secuencia
         secuencia.push(variableApoyo);
-        if(variableApoyo % 2 == 0){
+        if(variableApoyo % 2 === 0){
             secuenciaPar.push(variableApoyo);
         }else{
             secuenciaImpar.push(variableApoyo);
